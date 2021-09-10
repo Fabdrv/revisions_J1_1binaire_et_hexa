@@ -1,0 +1,17 @@
+body {
+	background-color: aqua;
+}
+.box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.box div {
+	width: 100px;
+	height: 100px;
+}
+.format {
+	line-height: 3em;
+	letter-spacing: 0.5rem;
+}
